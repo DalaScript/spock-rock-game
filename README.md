@@ -17,6 +17,7 @@
   - [🎓 What I learned](#-what-i-learned)
   - [🔙 Previous Project](#-previous-project)
   - [🔜 Next Project](#-next-project)
+  - [🗃️ Useful resources](#️-useful-resources)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
   - [💻 Coding Profiles](#-coding-profiles)
