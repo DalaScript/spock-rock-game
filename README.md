@@ -12,12 +12,11 @@
   - [📸 Screenshot](#-screenshot)
   - [🔗 Links](#-links)
   - [📌 Features](#-features)
-- [🧠 My process](#-my-process)
   - [🛠️ Built with](#️-built-with)
-  - [🎓 What I learned](#-what-i-learned)
+- [🧠 My process](#-my-process)
+  - [🗃️ Useful resources](#️-useful-resources)
   - [🔙 Previous Project](#-previous-project)
   - [🔜 Next Project](#-next-project)
-  - [🗃️ Useful resources](#️-useful-resources)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
   - [💻 Coding Profiles](#-coding-profiles)
@@ -32,59 +31,49 @@
 
 ### 🔗 Links
 
- - [🔴 Live Demo](https://dalascript.github.io/spock-rock-game/)
- - [🗂️ GitHub Repository](https://github.com/DalaScript/spock-rock-game)
+- [🔴 Live Demo](https://dalascript.github.io/spock-rock-game/)
+- [🗂️ GitHub Repository](https://github.com/DalaScript/spock-rock-game)
 
 ### 📌 Features
 
- - ✅ 5-choice gameplay: Rock, Paper, Scissors, Lizard, Spock
- - ✅ Click-based controls with immediate visual feedback
- - ✅ Real-time score updates for both player and computer
- - ✅ Dynamic result messaging (win, lose, tie)
- - ✅ Confetti animation when the player wins 🎉
- - ✅ Clean reset functionality to start over anytime
- - ✅ Visual "selected" highlight for both player and computer choices
- - ✅ Fully responsive and mobile-friendly layout
+- ✅ 5-choice gameplay: Rock, Paper, Scissors, Lizard, Spock
+- ✅ Click-based controls with immediate visual feedback
+- ✅ Real-time score updates for both player and computer
+- ✅ Dynamic result messaging (win, lose, tie)
+- ✅ Confetti animation when the player wins 🎉
+- ✅ Clean reset functionality to start over anytime
+- ✅ Visual "selected" highlight for both player and computer choices
+- ✅ Fully responsive and mobile-friendly layout
+
+### 🛠️ Built with
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- Confetti.js
 
 ---
 
 ## 🧠 My Process
 
-### 🛠️ Built with
+### 🗃️ Useful resources
 
- - HTML5
- - CSS3
- - Vanilla JavaScript
- - Confetti.js
-
-### 🎓 What I Learned
-
- - Managing game logic for multi-option matchups
- - Using objects and arrays to build scalable rule sets
- - Dynamically updating the DOM based on game state
- - Importing and using external JavaScript modules (like `confetti.js`)
- - Enhancing user experience with animations and visual feedback
- - Structuring event-driven applications with clean, modular code
- - Responsive UI techniques with flexbox and breakpoints
+- [Big Bang Theory Video Clip - RPSLS](https://www.youtube.com/watch?v=405Nh2H4Ucg) – Fun origin of the 5-option game logic  
+- [FontAwesome Icons](https://fontawesome.com/icons?d=gallery&q=close&m=free) – Free icons for UI elements
+- [Google Fonts](https://fonts.google.com/) – Stylish fonts for modern UI
+- [Confetti JS](https://www.cssscript.com/confetti-falling-animation/) – Lightweight confetti animation library
+- [W3Schools - Switch](https://www.w3schools.com/js/js_switch.asp) – How to use switch statements
+- [MDN - ES Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules) – Guide to JavaScript modules
+- [JS Modules History Article](https://www.sitepoint.com/understanding-es6-modules-via-their-history/) – Article on the evolution of JS modules
+- [JS Modules History Github](https://gist.github.com/branneman/558ef3a37ffd58ea004e00db5b201677) – Timeline of JavaScript module development
 
 ### 🔙 Previous Project
 
- - Form Validator | *[Project 12/20]* → [View Repository](https://github.com/DalaScript/form-validator)
+- Form Validator | *Project 12/20* → [View Repository](https://github.com/DalaScript/form-validator)
 
 ### 🔜 Next Project
 
- - NASA APOD | *[Project 14/20]* → [View Repository](https://github.com/DalaScript/nasa-apod)
-
-### 🗃️ Useful resources
-
- - [Big Bang Theory Video Clip - RPSLS](https://www.youtube.com/watch?v=405Nh2H4Ucg) – Fun origin of the 5-option game logic  
- - [FontAwesome Icons](https://fontawesome.com/icons?d=gallery&q=close&m=free) – Free icons for UI elements
- - [Google Fonts](https://fonts.google.com/) – Stylish fonts for modern UI
- - [Confetti JS](https://www.cssscript.com/confetti-falling-animation/) – Lightweight confetti animation library
- - [W3Schools - Switch](https://www.w3schools.com/js/js_switch.asp) – How to use switch statements
- - [MDN - ES Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules) – Guide to JavaScript modules
- - [JS Modules History Article](https://www.sitepoint.com/understanding-es6-modules-via-their-history/) – Article on the evolution of JS modules
- - [JS Modules History Github](https://gist.github.com/branneman/558ef3a37ffd58ea004e00db5b201677) – Timeline of JavaScript module development
+- NASA APOD | *Project 14/20* → [View Repository](https://github.com/DalaScript/nasa-apod)
 
 ---
 
@@ -92,13 +81,13 @@
 
 ### 🌐 Connect with Me
 
- - [Instagram](https://www.instagram.com/DalaScript)
- - [YouTube](https://www.youtube.com/@DalaScript)
+- [Instagram](https://www.instagram.com/DalaScript)
+- [YouTube](https://www.youtube.com/@DalaScript)
 
 ### 💻 Coding Profiles
 
- - [freeCodeCamp](https://www.freecodecamp.org/DalaScript)
- - [FrontendMentor](https://www.frontendmentor.io/profile/DalaScript)
- - [GitHub](https://github.com/DalaScript)
+- [freeCodeCamp](https://www.freecodecamp.org/DalaScript)
+- [FrontendMentor](https://www.frontendmentor.io/profile/DalaScript)
+- [GitHub](https://github.com/DalaScript)
 
 *🙌 Thanks for checking out my project! More coming soon. Stay tuned 🚀*
